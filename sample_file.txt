@@ -1,1 +1,2 @@
 This is the sample txt file on git hub.
+this is the first change in the file after saving it first time.
